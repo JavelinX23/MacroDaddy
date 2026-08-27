@@ -1,4 +1,6 @@
 # MacroDaddy
+**STILL IN TESTING, BACK UP MACROS TO SERVER BEFORE USING PLEASE**
+
 automated or on-demand FFXI macro backups
 
 Tired of losing recent macro changes due to file corruption because you forgot to back them up manually and SE doesn't do a good job of doing that regularly?
