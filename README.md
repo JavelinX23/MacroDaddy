@@ -10,9 +10,10 @@ Place macrodaddy folder into addons folder in your Windower directory
 then //lua l macrodaddy in FFXI with windower or add to your init.txt
 
 Windower\addons\MacroDaddy\
->MacroDaddy.lua
->backups
->data\settings.lua
+Contents:
+MacroDaddy.lua
+backups folder
+data folder & settings.lua
 
 Data folder> Settings.xml holds the variables for path, etc. 
 Can be manually edited, or you can change the path in game with    //md path "C:\your\folder\path\here"  
