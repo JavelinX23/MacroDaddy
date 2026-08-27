@@ -11,7 +11,7 @@ then //lua l macrodaddy in FFXI with windower or add to your init.txt
 
 Windower\addons\MacroDaddy\
 >MacroDaddy.lua
->backups\
+>backups
 >data\settings.lua
 
 Data folder> Settings.xml holds the variables for path, etc. 
