@@ -1,7 +1,7 @@
 # MacroDaddy
 automated or on-demand FFXI macro backups
 
-Tired of losing recent macro changes because you forgot to back them up manually and SE doesn't do a good job of doing that regularly?
+Tired of losing recent macro changes due to file corruption because you forgot to back them up manually and SE doesn't do a good job of doing that regularly?
 
 MacroDaddy looks in your FFXI folder  to back up your macros (C:\Program Files (x86)\PlayOnline\SquareEnix\FINAL FANTASY XI\USER\) 
 ----edit this in the lua if you have it installed in a non-standard location.
